@@ -45,5 +45,3 @@ Aluno: [Gabriel Morais Marcondes]
 Curso: Técnico em Desenvolvimento de Sistemas - ETEC
 Componente Curricular: Desenvolvimento de Sistemas I (DS I) - Agenda 06
 
-### Dica rápida para a imagem no GitHub:
-Coloque o arquivo de imagem na mesma pasta do repositório com o nome `image.png` (ou ajuste o caminho caso decida colocar dentro de uma pasta como `assets/` ou `img/`). Assim o GitHub carregará a imagem diretamente na página inicial do projeto.
